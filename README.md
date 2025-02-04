@@ -2,7 +2,7 @@
 
 ## Papel desempenhado
 
-Tem como finalidade acender ou apagar o anel de LED RGB ao captar sons diferentes dos emitidos pelo ambiente através módulo MAX4466. Quando apenas um som diferente é detectado, o anel de LED RGB desligará ou continuará desligado e quando dois sons são detectados, o anel de LED RGB será ligado.
+Tem como finalidade acender ou apagar o anel de LED RGB ao captar sons diferentes dos emitidos pelo ambiente através módulo MAX4466. Quando apenas um som diferente é detectado, o anel de LED RGB desligará ou continuará desligado e quando dois sons são detectados, o anel de LED RGB será ou continuará ligado.
 
 ## Techs
 
